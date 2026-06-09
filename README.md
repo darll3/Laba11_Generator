@@ -24,7 +24,7 @@
 
 ## 🛠 Требования
 
-- **💻 ОС:** Windows, macOS, Linux
+- **💻 ОС:** Windows, macOS
 - **🐍 Python:** версия 3.0 и выше
 - **📚 Библиотеки:** `tkinter` (устанавливается вместе с Python)
 
@@ -98,7 +98,6 @@
 
 - 📧 **Email:** Depinder_Chelany@mail.com
 - 📱 **Телефон:** +79097296453
-- 💬 **Telegram-чат:** https://t.me/student_report_help (условно)
 
 ---
 
